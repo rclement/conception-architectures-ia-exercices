@@ -5,6 +5,7 @@ Ce dépôt Git contient les exercices techniques du module "Conception des Archi
 1. [Extraction de données](01_extraction/README.md)
 2. [Pré-traitement de données](02_preprocessing/README.md)
 3. [Machine Learning](03_machine_learning/README.md)
+4. [CPU vs GPU](04_cpu_gpu/README.md)
 
 ## Mise en place
 
